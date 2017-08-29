@@ -19,7 +19,7 @@ will (or won't) help each learner.
 
 ![Anya](img/anya.png)
 
-1. Anya, 40, has lived in Krakow her whole life.
+1. Anya, 40, has lived in Kraków her whole life.
    She is raising two teenage children on her own,
    and as the time nears for them to leave home,
    she is contemplating a career change.
