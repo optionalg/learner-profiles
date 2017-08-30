@@ -15,6 +15,12 @@ To make the last part of the profiles concrete,
 these profiles describe how DataCamp's "Introduction to the Unix Shell"
 will (or won't) help each learner.
 
+* [Anya](#anya)
+* [Catalina](#catalina)
+* [Jasmine](#jasmine)
+* [Thanh](#thanh)
+* [Yngve](#yngve)
+
 ## Anya
 
 ![Anya](img/anya.png)
