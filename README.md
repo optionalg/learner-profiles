@@ -39,6 +39,34 @@ will (or won't) help each learner.
 5. DataCamp's "Introduction to the Unix Shell" will not teach Anya anything
    that she doesn't already know.
 
+## Catalina
+
+![Catalina](img/catalina.png)
+
+1. Catalina, 56, is a professor of statistics in Chile.
+   She teaches graduate and undergraduate courses in her own department,
+   and also manages a course for approximately 300 medical students
+   on stats and data analysis.
+
+2. Catalina's research focuses on analysis of spatial data in epidemiology.
+   She has used Excel and SAS for years,
+   and recently started working in R.
+   She is excited by its possibilities,
+   but is the only one in her department who has switched.
+
+3. Catalina would like to start teaching R in the course for medical students,
+   but does not have time to develop all the materials herself.
+
+4. Catalina and her students have a good understanding of English,
+   but most of their computers are slower and have less memory
+   than top-of-the-line machines in Europe and North America.
+
+5. This course and others like it could be the "flipped" part of Catalina's flipped classroom.
+   However,
+   the university has to pay commercial rates for bandwidth,
+   so she would prefer to use materials that can handed out on USB drives
+   and run locally on learners' machines.
+
 ## Jasmine
 
 ![Jasmine](img/jasmine.png)
