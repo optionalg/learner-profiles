@@ -85,12 +85,37 @@ will (or won't) help each learner.
    but only has high school English
    (supplemented by a solid technical vocabulary).
 
-5. This course will show Thanh how to build command-line tools
-   and use remote computing resources (such as clusters),
+5. This course will show Thanh how to build shell scripts,
    and is a step toward building [robust software][robust-software].
 
-(Images courtesy of [RoboHash][robohash].)
+## Yngve
+
+![Yngve](img/yngve.jpg)
+
+1. Yngve, 33, did a PhD in astrophysics, then switched careers to financial analysis.
+   He now works a major shipping company in Sweden,
+   where his job is to forecast losses due to delays, accidents, and piracy.
+
+2. Yngve works with large, heterogeneous datasets every day
+   using a variety of statistical methods and tools.
+   He is an expert MATLAB user,
+   and has taught himself a bit of R (mostly so that he can use `ggplot2`).
+
+3. Yngve wants to stay on the leading edge of his field,
+   so he is looking for advanced training.
+
+4. Yngve's friends would describe him as "very focused":
+   he always wants to dive straight into the content of a course,
+   and has no interest in getting to know his instructor or fellow students.
+
+5. This course is *not* suitable Yngve,
+   since he learned everything in it while still an undergrad.
+
+---
+
+*(Images courtesy of [RoboHash][robohash].)*
 
 [github-repo]: https://github.com/datacamp/learner-profiles
 [robohash]: http://robohash.org
+[robust-software]: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412
 [teaching]: http://third-bit.com/teaching/
