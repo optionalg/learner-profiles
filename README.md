@@ -124,7 +124,7 @@ will (or won't) help each learner.
 
 ## Yngve
 
-![Yngve](img/yngve.jpg)
+![Yngve](img/yngve.png)
 
 1. Yngve, 33, did a PhD in astrophysics, then switched careers to financial analysis.
    He now works a major shipping company in Sweden,
