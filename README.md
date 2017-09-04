@@ -34,23 +34,23 @@ will (or won't) help each learner.
     <td align="center">
       <a href="#jasmine"><img alt="Jasmine" src="img/jasmine.png" height="100" width="100" /></a>
       <br/>
-      Early career health policy research
+      Early career policy researcher
       <br/>
       Wants to teach
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="#mohan"><img alt="Mohan" src="img/mohan.png" height="100" width="100" /></a>
       <br/>
       Graduate student
       <br/>
-      Wants quick solutions to specific problems
+      Wants quick solutions
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="#pina"><img alt="Pina" src="img/pina.png" height="100" width="100" /></a>
       <br/>
-      DataCamp curriculum developer
+      Curriculum developer
       <br/>
       Wants to maintain courses
     </td>
@@ -61,6 +61,8 @@ will (or won't) help each learner.
       <br/>
       Wants to build tools
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="#yngve"><img alt="Yngve" src="img/yngve.png" height="100" width="100" /></a>
       <br/>
@@ -70,12 +72,14 @@ will (or won't) help each learner.
     </td>
     <td align="center">
     </td>
+    <td align="center">
+    </td>
   </tr>
 </table>
 
 ## Anya
 
-<img alt="Anya" src="img/anya.png" height="100" width="100" />
+<img alt="Anya" src="img/anya.png" height="150" width="150" />
 
 1. Anya, 40, has lived in Kraków her whole life.
    She is raising two teenage children on her own,
@@ -99,7 +103,7 @@ will (or won't) help each learner.
 
 ## Catalina
 
-<img alt="Catalina" src="img/catalina.png" height="100" width="100" />
+<img alt="Catalina" src="img/catalina.png" height="150" width="150" />
 
 1. Catalina, 56, is a professor of statistics in Chile.
    She teaches graduate and undergraduate courses in her own department,
@@ -127,7 +131,7 @@ will (or won't) help each learner.
 
 ## Jasmine
 
-<img alt="Jasmine" src="img/jasmine.png" height="100" width="100" />
+<img alt="Jasmine" src="img/jasmine.png" height="150" width="150" />
 
 1. Jasmine, 28, did a commerce degree at the University of North Carolina,
    and then an MBA at Georgia State.
@@ -153,7 +157,7 @@ will (or won't) help each learner.
 
 ## Mohan
 
-<img alt="Mohan" src="img/mohan.png" height="100" width="100" />
+<img alt="Mohan" src="img/mohan.png" height="150" width="150" />
 
 1. Mohan, 23, is a graduate student in urban planning in Mumbai.
    His thesis work focuses on predicting traffic disruption caused by construction.
@@ -179,7 +183,7 @@ will (or won't) help each learner.
 
 ## Pina
 
-<img alt="Pina" src="img/pina.png" height="100" width="100" />
+<img alt="Pina" src="img/pina.png" height="150" width="150" />
 
 1. Pina, 31, has a PhD in behavioral economics,
    and joined DataCamp eight months ago as a curriculum developer
@@ -201,7 +205,7 @@ will (or won't) help each learner.
 
 ## Thanh
 
-<img alt="Thanh" src="img/thanh.png" height="100" width="100" />
+<img alt="Thanh" src="img/thanh.png" height="150" width="150" />
 
 1. Thanh, 35, has an undergraduate degree in psychology with a minor in statistics.
    He now works for the Quebec Ministry of Education,
@@ -224,7 +228,7 @@ will (or won't) help each learner.
 
 ## Yngve
 
-<img alt="Yngve" src="img/yngve.png" height="100" width="100" />
+<img alt="Yngve" src="img/yngve.png" height="150" width="150" />
 
 1. Yngve, 33, did a PhD in astrophysics, then switched careers to financial analysis.
    He now works a major shipping company in Sweden,
