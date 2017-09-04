@@ -18,6 +18,7 @@ will (or won't) help each learner.
 * [Anya](#anya): mid-career programmer who wants to analyze network traffic.
 * [Catalina](#catalina): statistics professor who wants courses for her students.
 * [Jasmine](#jasmine): early career, commerce background, wants to teach.
+* [Mohan](#mohan): graduate students, wants quick solutions to specific problems.
 * [Thanh](#thanh): statistician, wants to build tools for others.
 * [Yngve](#yngve): financial analyst, wants to stay on the leading edge.
 
@@ -98,6 +99,32 @@ will (or won't) help each learner.
 5. This course will give Jasmine a basic understanding of the Unix shell
    so that she can help her students solve the problems they encounter
    using the university's systems in their statistics courses.
+
+## Mohan
+
+![Mohan](img/mohan.png)
+
+1. Mohan, 23, is a graduate student in urban planning in Mumbai.
+   His thesis work focuses on predicting traffic disruption caused by construction.
+
+2. Mohan did two programming classes as an undergraduate,
+   both using VB.net.
+   He's good at building ten-page programs,
+   but doesn't understand that larger ones aren't just more of the same.
+   He also did two statistics classes,
+   neither of which covered any methods invented after 1970.
+
+3. Mohan doesn't want to learn data science:
+   he wants to solve homework problems in his urban planning courses,
+   some of which are poorly specified
+   and rely on data sets that the professor has never actually explored.
+
+4. He doesn't have the time or the patience to work patiently through a sequence of courses.
+   Instead,
+   he wants (and needs) to jump directly to a cookbook method that will give him the right answer.
+
+5. This course won't be of much use to Mohan,
+   as it doesn't include code he can copy, paste, and tweak to solve particular homework questions.
 
 ## Thanh
 
