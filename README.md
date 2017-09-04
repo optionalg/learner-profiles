@@ -18,6 +18,8 @@ will (or won't) help each learner.
 <table width="100%">
   <tr>
     <td align="center">
+      <a href="#anya"><strong>Anya</strong></a>
+      <br/>
       <a href="#anya"><img alt="Anya" src="img/anya.png" height="100" width="100" /></a>
       <br/>
       Mid-career programmer
@@ -25,6 +27,8 @@ will (or won't) help each learner.
       Wants to analyze network traffic
     </td>
     <td align="center">
+      <a href="#catalina"><strong>Catalina</strong></a>
+      <br/>
       <a href="#catalina"><img alt="Catalina" src="img/catalina.png" height="100" width="100" /></a>
       <br/>
       Statistics professor
@@ -32,6 +36,8 @@ will (or won't) help each learner.
       Wants courses for her students
     </td>
     <td align="center">
+      <a href="#jasmine"><strong>Jasmine</strong></a>
+      <br/>
       <a href="#jasmine"><img alt="Jasmine" src="img/jasmine.png" height="100" width="100" /></a>
       <br/>
       Early career policy researcher
@@ -41,6 +47,8 @@ will (or won't) help each learner.
   </tr>
   <tr>
     <td align="center">
+      <a href="#mohan"><strong>Mohan</strong></a>
+      <br/>
       <a href="#mohan"><img alt="Mohan" src="img/mohan.png" height="100" width="100" /></a>
       <br/>
       Graduate student
@@ -48,6 +56,8 @@ will (or won't) help each learner.
       Wants quick solutions
     </td>
     <td align="center">
+      <a href="#pina"><strong>Pina</strong></a>
+      <br/>
       <a href="#pina"><img alt="Pina" src="img/pina.png" height="100" width="100" /></a>
       <br/>
       Curriculum developer
@@ -55,6 +65,8 @@ will (or won't) help each learner.
       Wants to maintain courses
     </td>
     <td align="center">
+      <a href="#thanh"><strong>Thanh</strong></a>
+      <br/>
       <a href="#thanh"><img alt="Thanh" src="img/thanh.png" height="100" width="100" /></a>
       <br/>
       Statistician
@@ -64,6 +76,8 @@ will (or won't) help each learner.
   </tr>
   <tr>
     <td align="center">
+      <a href="#yngve"><strong>Yngve</strong></a>
+      <br/>
       <a href="#yngve"><img alt="Yngve" src="img/yngve.png" height="100" width="100" /></a>
       <br/>
       Financial analyst
