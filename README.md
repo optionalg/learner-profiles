@@ -24,7 +24,7 @@ will (or won't) help each learner.
 
 ## Anya
 
-![Anya](img/anya.png)
+<img alt="Anya" src="img/anya.png" height="100" width="100" />
 
 1. Anya, 40, has lived in Kraków her whole life.
    She is raising two teenage children on her own,
@@ -48,7 +48,7 @@ will (or won't) help each learner.
 
 ## Catalina
 
-![Catalina](img/catalina.png)
+<img alt="Catalina" src="img/catalina.png" height="100" width="100" />
 
 1. Catalina, 56, is a professor of statistics in Chile.
    She teaches graduate and undergraduate courses in her own department,
@@ -76,7 +76,7 @@ will (or won't) help each learner.
 
 ## Jasmine
 
-![Jasmine](img/jasmine.png)
+<img alt="Jasmine" src="img/jasmine.png" height="100" width="100" />
 
 1. Jasmine, 28, did a commerce degree at the University of North Carolina,
    and then an MBA at Georgia State.
@@ -102,7 +102,7 @@ will (or won't) help each learner.
 
 ## Mohan
 
-![Mohan](img/mohan.png)
+<img alt="Mohan" src="img/mohan.png" height="100" width="100" />
 
 1. Mohan, 23, is a graduate student in urban planning in Mumbai.
    His thesis work focuses on predicting traffic disruption caused by construction.
@@ -128,7 +128,7 @@ will (or won't) help each learner.
 
 ## Thanh
 
-![Thanh](img/thanh.png)
+<img alt="Thanh" src="img/thanh.png" height="100" width="100" />
 
 1. Thanh, 35, has an undergraduate degree in psychology with a minor in statistics.
    He now works for the Quebec Ministry of Education,
@@ -151,7 +151,7 @@ will (or won't) help each learner.
 
 ## Yngve
 
-![Yngve](img/yngve.png)
+<img alt="Yngve" src="img/yngve.png" height="100" width="100" />
 
 1. Yngve, 33, did a PhD in astrophysics, then switched careers to financial analysis.
    He now works a major shipping company in Sweden,
