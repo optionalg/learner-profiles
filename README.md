@@ -15,11 +15,11 @@ To make the last part of the profiles concrete,
 these profiles describe how DataCamp's "Introduction to the Unix Shell"
 will (or won't) help each learner.
 
-* [Anya](#anya)
-* [Catalina](#catalina)
-* [Jasmine](#jasmine)
-* [Thanh](#thanh)
-* [Yngve](#yngve)
+* [Anya](#anya): mid-career programmer who wants to analyze network traffic.
+* [Catalina](#catalina): statistics professor who wants courses for her students.
+* [Jasmine](#jasmine): early career, commerce background, wants to teach.
+* [Thanh](#thanh): statistician, wants to build tools for others.
+* [Yngve](#yngve): financial analyst, wants to stay on the leading edge.
 
 ## Anya
 
