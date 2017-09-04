@@ -82,7 +82,7 @@ will (or won't) help each learner.
       <br/>
       Financial analyst
       <br/>
-      Wants to stay on the leading edge
+      Wants to stay competitive
     </td>
     <td align="center">
     </td>
