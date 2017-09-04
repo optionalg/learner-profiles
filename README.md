@@ -15,13 +15,63 @@ To make the last part of the profiles concrete,
 these profiles describe how DataCamp's "Introduction to the Unix Shell"
 will (or won't) help each learner.
 
-* [Anya](#anya): mid-career programmer who wants to analyze network traffic.
-* [Catalina](#catalina): statistics professor who wants courses for her students.
-* [Jasmine](#jasmine): early career, commerce background, wants to teach.
-* [Mohan](#mohan): graduate student, wants quick solutions to specific problems.
-* [Pina](#pina): DataCamp curriculum developer and course maintainer.
-* [Thanh](#thanh): statistician, wants to build tools for others.
-* [Yngve](#yngve): financial analyst, wants to stay on the leading edge.
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="#anya"><img alt="Anya" src="img/anya.png" height="100" width="100" /></a>
+      <br/>
+      Mid-career programmer
+      <br/>
+      Wants to analyze network traffic
+    </td>
+    <td align="center">
+      <a href="#catalina"><img alt="Catalina" src="img/catalina.png" height="100" width="100" /></a>
+      <br/>
+      Statistics professor
+      <br/>
+      Wants courses for her students
+    </td>
+    <td align="center">
+      <a href="#jasmine"><img alt="Jasmine" src="img/jasmine.png" height="100" width="100" /></a>
+      <br/>
+      Early career health policy research
+      <br/>
+      Wants to teach
+    </td>
+    <td align="center">
+      <a href="#mohan"><img alt="Mohan" src="img/mohan.png" height="100" width="100" /></a>
+      <br/>
+      Graduate student
+      <br/>
+      Wants quick solutions to specific problems
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#pina"><img alt="Pina" src="img/pina.png" height="100" width="100" /></a>
+      <br/>
+      DataCamp curriculum developer
+      <br/>
+      Wants to maintain courses
+    </td>
+    <td align="center">
+      <a href="#thanh"><img alt="Thanh" src="img/thanh.png" height="100" width="100" /></a>
+      <br/>
+      Statistician
+      <br/>
+      Wants to build tools
+    </td>
+    <td align="center">
+      <a href="#yngve"><img alt="Yngve" src="img/yngve.png" height="100" width="100" /></a>
+      <br/>
+      Financial analyst
+      <br/>
+      Wants to stay on the leading edge
+    </td>
+    <td align="center">
+    </td>
+  </tr>
+</table>
 
 ## Anya
 
