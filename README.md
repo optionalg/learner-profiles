@@ -5,7 +5,7 @@ so these *learner profiles* make the course's intended audience concrete.
 Please amend or add to these profiles as you build courses
 by filing an issue or pull request in the [GitHub repository][github-repo].
 
-Profiles have [five parts][learner-profiles]:
+Profiles have [five parts][teaching]:
 the learner's general background,
 what they already know,
 what they think they want to do,
