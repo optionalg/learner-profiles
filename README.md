@@ -18,7 +18,8 @@ will (or won't) help each learner.
 * [Anya](#anya): mid-career programmer who wants to analyze network traffic.
 * [Catalina](#catalina): statistics professor who wants courses for her students.
 * [Jasmine](#jasmine): early career, commerce background, wants to teach.
-* [Mohan](#mohan): graduate students, wants quick solutions to specific problems.
+* [Mohan](#mohan): graduate student, wants quick solutions to specific problems.
+* [Pina](#pina): DataCamp curriculum developer and course maintainer.
 * [Thanh](#thanh): statistician, wants to build tools for others.
 * [Yngve](#yngve): financial analyst, wants to stay on the leading edge.
 
@@ -125,6 +126,28 @@ will (or won't) help each learner.
 
 5. This course won't be of much use to Mohan,
    as it doesn't include code he can copy, paste, and tweak to solve particular homework questions.
+
+## Pina
+
+<img alt="Pina" src="img/pina.png" height="100" width="100" />
+
+1. Pina, 31, has a PhD in behavioral economics,
+   and joined DataCamp eight months ago as a curriculum developer
+
+2. Pina used a wide variety of statistical and machine learning methods in her research.
+   She has used Python, R, MATLAB, SAS, Stata, SQL, and a variety of other tools,
+   but prefers R these days.
+
+3. Pina spends half her time developing new DataCamp courses
+   and the other half fixing and upgrading ones that have already been deployed.
+
+4. Pina's partner is doing a second post-doc in museum studies,
+   so Pina wants to be able to travel frequently and work from wherever she finds herself.
+
+5. This course won't teach Pina anything she doesn't already know about Unix,
+   but she may pick up a couple of ideas from it about teaching.
+   The most important thing for her is having documentation around the course
+   that will help her make fixes and changes without breaking continuity.
 
 ## Thanh
 
